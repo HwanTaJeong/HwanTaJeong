@@ -1,15 +1,7 @@
-# Hello! I'm HwanTaJeong!
-Welcome to my repositories!
+# About me:
 
-I'm interested in Python and JS but I can't use JS.
+Im an student who is loving programming.
 
-# Codes
-These are my codes
+Im studying Python, HTML, CSS, JS, and C.
 
-    import winsound
-    import win32api
-
-    a=win32api.MessageBox(0, "RuntimeError :\nPlease restart the process.", "C:\\Users\\JINI15\\AppData\\Local\\Programs\\Python\\Python310", 16)
-    if a==1:
-      print("'Okay' was clicked")
-
+I want to learn about Frontend, Backend, React, and MySQL.
